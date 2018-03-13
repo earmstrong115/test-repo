@@ -1,1 +1,2 @@
 The quick brown fox jumps over the lazy dog.
+Added something new just in the branch.
